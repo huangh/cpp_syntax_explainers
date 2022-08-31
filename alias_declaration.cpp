@@ -1,3 +1,4 @@
+// Source: https://stackoverflow.com/questions/2795023/c-template-typedef
 //C++11 added alias declarations, which are generalization of typedef, allowing templates:
 
 // the way to call this is to pass in the template parameter N (of type size_t) to the alias Vector, which is an alias of
